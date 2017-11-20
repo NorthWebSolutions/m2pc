@@ -19,6 +19,6 @@ sudo chown -R magento_user:magento_group $LIB
 
 you are done ;)
 
-**to run sh in terminal you need exectute permission for correct_permissions.sh
+* to run sh in terminal you need exectute permission for correct_permissions.sh
 
 
