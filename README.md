@@ -8,7 +8,10 @@ THIS IS A BASH SCRIPT for ubuntu 16.04 to correct magento2 permissions in CLI.
 
 ## Setup:
 
-You need to change the following two things in correct_permissions.sh:
+You need to change the following 3 things in correct_permissions.sh:
+- Installation folder
+- magento user name
+- magento user group
 
 ##### Locate your magento2 installation, and set LIB varrable to your actual folder
 *remember to use absolute path on linux 
