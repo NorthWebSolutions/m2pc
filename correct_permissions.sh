@@ -1,8 +1,8 @@
-#Locate magento
+#Change magento2 installation folder here:
 LIB="/var/www/magento/"
 
 echo "Change username and groupe for all files..."
-#Change magento_user and magento_group to your magento username and group
+#Change magento_user and magento_group here:
 sudo chown -R magento_user:magento_group $LIB   
 wait
 echo "correct read-write access"
